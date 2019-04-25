@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-sever" />
+        <module name="ribbon" />
+        <module name="service-A" />
+        <module name="service-B2" />
+        <module name="service-B3" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-sever" target="1.7" />
+      <module name="micro-service" target="1.6" />
+      <module name="ribbon" target="1.7" />
+      <module name="service-A" target="1.7" />
+      <module name="service-B2" target="1.7" />
+      <module name="service-B3" target="1.7" />
+      <module name="zuul" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

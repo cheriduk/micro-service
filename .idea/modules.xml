@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-sever/eureka-sever.iml" filepath="$PROJECT_DIR$/eureka-sever/eureka-sever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service.iml" filepath="$PROJECT_DIR$/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-A/service-A.iml" filepath="$PROJECT_DIR$/service-A/service-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-B2/service-B2.iml" filepath="$PROJECT_DIR$/service-B2/service-B2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-B3/service-B3.iml" filepath="$PROJECT_DIR$/service-B3/service-B3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
